@@ -45,7 +45,7 @@ arrays and the ```train_test_split function``` to split the data into training a
 datasets. Scaled the training and testing features datasets by creating a ```StandardScaler``` 
 instance , fitting it to the training data, then using the transform function.
 
-Step 2: Compile, Train, and Evaluate the Model
+### Step 2: Compile, Train, and Evaluate the Model
 
 Using ```Lazypredict``` we tried to find the best classifying model
 
