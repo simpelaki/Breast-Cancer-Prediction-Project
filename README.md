@@ -82,6 +82,6 @@ visualizations. I then browsed how to create and change font, font size, and col
 https://simpelaki.github.io/final_project/#contact 
 
 
-Chandrani Ghosh- Francis Rivera- Simpel Osman - Wei Chen 
+Chandrani Ghosh- Francis Rivera- Simpel Osman - Wei Chen  
 
 -------------------------------------------------------------------------------------------------------------------
