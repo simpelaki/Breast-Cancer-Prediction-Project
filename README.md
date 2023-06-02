@@ -79,7 +79,7 @@ https://public.tableau.com/app/profile/wei.chen6999/viz/BreastCancerProject--Wei
 Created a web page, with HTML, magnific pop-up, and slick for fonts and themes. I also had help 
 from templatemo style to create a workspace that separates the background to be able to show our
 visualizations. I then browsed how to create and change font, font size, and color.
-https://simpelaki.github.io/final_project/#contact 
+https://simpelaki.github.io/Breast-Cancer-Prediction-Project/ 
 
 
 Chandrani Ghosh- Francis Rivera- Simpel Osman - Wei Chen  
