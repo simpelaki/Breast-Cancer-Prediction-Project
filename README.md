@@ -80,3 +80,8 @@ Created a web page, with HTML, magnific pop-up, and slick for fonts and themes. 
 from templatemo style to create a workspace that separates the background to be able to show our
 visualizations. I then browsed how to create and change font, font size, and color.
 https://simpelaki.github.io/final_project/#contact 
+
+
+Chandrani Ghosh- Francis Rivera- Simpel Osman - Wei Chen 
+
+-------------------------------------------------------------------------------------------------------------------
